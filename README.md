@@ -37,38 +37,3 @@ author={Danelljan, Martin and H{\"a}ger, Gustav and Khan, Fahad Shahbaz and Fels
 booktitle={Proceedings of the British Machine Vision Conference BMVC},
 year={2014}}
 ```
-
-[3]
-```
-@inproceedings{danelljan2014colorattributes,
-title={Adaptive Color Attributes for Real-Time Visual Tracking},
-author={Danelljan, Martin and Khan, Fahad Shahbaz and Felsberg, Michael and Weijer, Joost van de},
-booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
-year={2014}}
-```
-
-[4]
-```
-@article{lsvm-pami,
-title = "Object Detection with Discriminatively Trained Part Based Models",
-author = "Felzenszwalb, P. F. and Girshick, R. B. and McAllester, D. and Ramanan, D.",
-journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-year = "2010", volume = "32", number = "9", pages = "1627--1645"}
-```
-
-[5]
-```
-@misc{PMT,
-author = {Piotr Doll\'ar},
-title = {{P}iotr's {C}omputer {V}ision {M}atlab {T}oolbox ({PMT})},
-howpublished = {\url{http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html}}}
-```
-
-[6]
-```
-@inproceedings{bolme2010mosse,
-author={Bolme, David S. and Beveridge, J. Ross and Draper, Bruce A. and Yui Man Lui},
-title={Visual Object Tracking using Adaptive Correlation Filters},
-booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
-year={2010}}
-```
