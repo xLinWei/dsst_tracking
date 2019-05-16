@@ -1,4 +1,4 @@
-# Dsst_tracking
+# Dsst_Tracking
 C++ implementation of Dsst
 
 refer to "https://github.com/klahaag/cf_tracking"
